@@ -1,4 +1,7 @@
-import numpy as np
+##http://es.slideshare.net/ingenieriageologica1/capitulo-vi-procesamiento-digital-de-una-imagen
+##http://python-para-impacientes.blogspot.com.co/2014/12/fundamentos-para-procesar-imagenes-con_16.html
+##http://pybonacci.github.io/scipy-lecture-notes-ES/advanced/image_processing/index.html
+import numpy as np ##C:\Python34\python -m pip install numpy
 from PIL import Image
 from copy import copy, deepcopy
 import matplotlib.pyplot as plt
